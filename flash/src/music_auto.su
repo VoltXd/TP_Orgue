@@ -1,0 +1,7 @@
+../src/music_auto.c:31:6:startMusic	16	static
+../src/music_auto.c:59:6:stopMusic	8	static
+../src/music_auto.c:64:9:isMusicPlaying	8	static
+../src/music_auto.c:69:9:isNextKeyReady	8	static
+../src/music_auto.c:74:9:isSongFinished	16	static
+../src/music_auto.c:81:6:setNextKey	8	static
+../src/music_auto.c:99:6:musicGetKey	16	static

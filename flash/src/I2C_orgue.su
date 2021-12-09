@@ -1,0 +1,6 @@
+../src/I2C_orgue.c:14:6:init_I2C	8	static
+../src/I2C_orgue.c:29:6:MCP23_write_reg	24	static
+../src/I2C_orgue.c:39:9:MCP23_read_reg	32	static
+../src/I2C_orgue.c:54:6:MCP23_write_OD	16	static
+../src/I2C_orgue.c:60:9:Ftouche	24	static
+../src/I2C_orgue.c:93:9:decode_touche	64	static

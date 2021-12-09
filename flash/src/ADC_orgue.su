@@ -1,0 +1,9 @@
+../src/ADC_orgue.c:24:6:init_ADC	8	static
+../src/ADC_orgue.c:44:6:ADC_startSequence	8	static
+../src/ADC_orgue.c:52:10:ADC_getResultA	8	static
+../src/ADC_orgue.c:57:6:ADC_SEQA_IRQHandler	16	static
+../src/ADC_orgue.c:79:10:ADC_getResultB	8	static
+../src/ADC_orgue.c:84:6:ADC_SEQB_IRQHandler	16	static
+../src/ADC_orgue.c:106:9:ADC_isMeasureAReady	16	static
+../src/ADC_orgue.c:113:9:ADC_isMeasureBReady	16	static
+../src/ADC_orgue.c:120:9:ADC_areSequencesEnabled	8	static

@@ -1,0 +1,2 @@
+../src/toolbox.c:10:7:limitToInterval	24	static
+../src/toolbox.c:20:10:round	16	static

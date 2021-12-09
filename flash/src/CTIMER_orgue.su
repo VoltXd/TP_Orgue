@@ -1,0 +1,4 @@
+../src/CTIMER_orgue.c:15:6:init_CTIMER0	16	static
+../src/CTIMER_orgue.c:33:6:CTIMER0_start	8	static
+../src/CTIMER_orgue.c:38:6:CTIMER0_stop	8	static
+../src/CTIMER_orgue.c:43:6:CTIMER0_setPWM	32	static

@@ -1,0 +1,2 @@
+../src/UART_orgue.c:15:6:init_UART0	8	static
+../src/UART_orgue.c:28:9:UART0_checkCharacterReception	16	static

@@ -1,0 +1,3 @@
+../src/GPIO_orgue.c:13:6:init_GPIO	8	static
+../src/GPIO_orgue.c:20:6:GPIO_turnOnDACOUT	8	static
+../src/GPIO_orgue.c:25:6:GPIO_turnOffDACOUT	8	static
